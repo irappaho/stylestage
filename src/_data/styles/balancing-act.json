@@ -1,0 +1,10 @@
+{
+  // Required
+  "title": "Balancing Act",
+  "author": "Emily Rapport",
+  "stylesheet": "https://moderncss.dev/css/balancing-act.css",
+  // Optional
+  "twitter": "eatpaintchic",
+  "websiteTitle": "EatPaintStudio.dev",
+  "websiteUrl": "https://eatpaintstudio.dev"
+}
